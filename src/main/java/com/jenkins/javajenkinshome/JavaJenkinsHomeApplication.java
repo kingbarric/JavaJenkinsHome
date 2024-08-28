@@ -8,6 +8,7 @@ public class JavaJenkinsHomeApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JavaJenkinsHomeApplication.class, args);
+		System.out.println("Project running");
 	}
 
 }
